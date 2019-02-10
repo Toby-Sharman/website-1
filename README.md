@@ -1,2 +1,2 @@
 # website
-[Interlogical website](ye-interlogical.com)
+[Interlogical website](http://ye-interlogical.com/)
